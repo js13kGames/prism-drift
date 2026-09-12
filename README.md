@@ -9,11 +9,11 @@ Created for [js13kGames](https://js13kgames.com/) competition.
 
 <p align="center">
   <a href="https://htmlpreview.github.io/?https://github.com/leereilly/prism-drift/blob/HEAD/index.html">
-    <img src="assets/gameplay.webp" alt="Prism Drift gameplay: steering through a neon rainbow tunnel and collecting music notes" width="720">
+    <img src="assets/gameplay.webp" alt="Prism Drift gameplay: flying through a neon rainbow tunnel and collecting beats" width="720">
   </a>
 </p>
 
-A browser game built for [js13k](https://js13kgames.com/). Fly through a neon tunnel, dodge the walls, and collect notes to add layers to the music.
+A browser game built for [js13k](https://js13kgames.com/). Fly through a neon tunnel, dodge the walls, and collect beats to add layers to the music.
 
 Open `index.html` in a browser with WebGL support. No install or build step.
 
